@@ -23,5 +23,5 @@ In order to understand credit card risk, we used machine learning to analyze the
 ![EasyEnsembleClassifier.png](/Resurcees/EasyEnsembleClassifier.png)
 
 ## Summary
-We can see that the ensemble algorithms give us better results comper to the oversampling algorithms. 
-The model that gives us the best accuracy score is the Easy Ensemble Classifier but it is still not as high as we accepted so we are not recommending using any of the models above to predict credit risk. 
+We can see that the ensemble algorithms give us better results compared to the oversampling algorithms. 
+The model that gives us the best accuracy score is the Easy Ensemble Classifier so I will recommend working with this modele to predict credit risk. 
